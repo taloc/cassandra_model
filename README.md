@@ -10,7 +10,7 @@ Objective:
 
 # Table of contents:
 a) Jupyter Notebook containing Python scripts to create the ETL for Apache Cassandra queries:
-- Project_1B_ Project_Template_RY.ipynb
+- Data_modelling_Apache_Cassandra.ipynb
 
 b) Event_data folder (directory of CSV files partitioned by date):
 - event_data
